@@ -16,7 +16,7 @@ public class StephenHawking {
 	
 	// 2. ask the user for a sentence
 			String name=JOptionPane.showInputDialog("Dear player, what is your name?");
-			String question=JOptionPane.showInputDialog(null, "Enter a yes or no question into the box below, " + name);
+			String question=JOptionPane.showInputDialog("Enter a yes or no question into the box below, " + name);
 			
 	
 	// 3. call the speak method below and send it the sentence

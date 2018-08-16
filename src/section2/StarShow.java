@@ -50,6 +50,7 @@ public class StarShow {
 		// 4. Repeat both commands 5 times. See Figure 1 at http://bit.ly/star-show
 
 			// 1. Move the robot the distance of the starSize variable
+		
 	
 			// 3. Turn the robot 144 degrees
 			
